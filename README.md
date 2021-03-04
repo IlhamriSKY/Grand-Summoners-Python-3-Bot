@@ -12,3 +12,6 @@ Bot for automate play and gacha grand summoner (Use at your own Risk)
 - Unit and Item code always update you can get using Network or Request monitoring apps
 - Run Command
 ``` python3 rerollv1.py ```
+
+# Reference
+https://github.com/Mila432/Grand-Summoners-Python-Bot
