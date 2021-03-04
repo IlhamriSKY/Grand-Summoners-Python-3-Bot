@@ -1,4 +1,4 @@
-# Grand-Summoners-Python-3-Bot
+# Grand Summoners Python3 Bot
 Bot for automate play and grand summoner (Use at your own Risk)
 
 # Recruitment
