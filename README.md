@@ -1,5 +1,5 @@
 # Grand Summoners Python3 Bot
-Bot for automate play and gacha grand summoner (Use at your own Risk)
+Bot for automate play and gacha grand summoner (Use with your own Risk)
 
 # Recruitment
 - Install requests
